@@ -1,0 +1,99 @@
+2026-04-16 17:16:22 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:16:23 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 1
+2026-04-16 17:16:23 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking1
+2026-04-16 17:21:52 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:21:53 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 2
+2026-04-16 17:21:53 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking2
+2026-04-16 17:22:24 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:22:24 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 3
+2026-04-16 17:22:24 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking3
+2026-04-16 17:22:45 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:22:45 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 4
+2026-04-16 17:22:45 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking4
+2026-04-16 17:22:59 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:22:59 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 5
+2026-04-16 17:22:59 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking5
+2026-04-16 17:23:14 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:23:14 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 6
+2026-04-16 17:23:14 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking6
+2026-04-16 17:23:33 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:23:33 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 7
+2026-04-16 17:23:33 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking7
+2026-04-16 17:25:51 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:25:51 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 8
+2026-04-16 17:25:51 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking8
+2026-04-16 17:26:14 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:26:14 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 9
+2026-04-16 17:26:14 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking9
+2026-04-16 17:26:29 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:26:29 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 10
+2026-04-16 17:26:29 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking10
+2026-04-16 17:26:54 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:26:54 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 11
+2026-04-16 17:26:54 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking11
+2026-04-16 17:27:06 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:27:06 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 12
+2026-04-16 17:27:06 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking12
+2026-04-16 17:27:27 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:27:27 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 13
+2026-04-16 17:27:27 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking13
+2026-04-16 17:27:52 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:27:52 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 14
+2026-04-16 17:27:52 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking14
+2026-04-16 17:28:25 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:28:25 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 15
+2026-04-16 17:28:25 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking15
+2026-04-16 17:29:25 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl -  process started to return data with id: 5 
+2026-04-16 17:29:25 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Data returned successfully form l2Cache with id: 5
+2026-04-16 17:29:37 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl -  process started to return data with id: 10 
+2026-04-16 17:29:37 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Data returned successfully form l1Cache with id: 10
+2026-04-16 17:30:37 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Delete booking api initiated
+2026-04-16 17:30:38 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Deleted booking Records form Db successfully with id: 15
+2026-04-16 17:30:38 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Cache evicted from L1 and L2 for key: Booking15
+2026-04-16 17:30:53 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Delete booking api initiated
+2026-04-16 17:30:53 WARN  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking  is not found with id: 15
+2026-04-16 17:31:58 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Delete booking api initiated
+2026-04-16 17:31:58 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Deleted booking Records form Db successfully with id: 3
+2026-04-16 17:31:58 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Cache evicted from L1 and L2 for key: Booking3
+2026-04-16 17:34:19 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Delete booking api initiated
+2026-04-16 17:34:19 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Deleted booking Records form Db successfully with id: 7
+2026-04-16 17:34:19 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Cache evicted from L1 and L2 for key: Booking7
+2026-04-16 17:35:04 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:35:04 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 16
+2026-04-16 17:35:04 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking16
+2026-04-16 17:35:25 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:35:25 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 17
+2026-04-16 17:35:25 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking17
+2026-04-16 17:35:45 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:35:45 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 18
+2026-04-16 17:35:45 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking18
+2026-04-16 17:36:02 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Create booking API initiated
+2026-04-16 17:36:02 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking saved in DB with id: 19
+2026-04-16 17:36:02 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached for create in L1 and L2 with key: Booking19
+2026-04-16 17:38:30 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Update booking api initiated
+2026-04-16 17:38:31 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking updated successfully with id: 1
+2026-04-16 17:38:31 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Booking cached  for update in L1 and L2 with key: Booking1
+2026-04-16 17:39:23 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl -  process started to return data with id: 10 
+2026-04-16 17:39:23 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Setting Db response in l1Cache and l2Cache
+2026-04-16 17:39:23 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Data returned successfully from db with id: 10
+2026-04-16 17:39:27 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl -  process started to return data with id: 10 
+2026-04-16 17:39:27 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Setting Db response in l1Cache and l2Cache
+2026-04-16 17:39:27 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Data returned successfully from db with id: 10
+2026-04-16 17:39:32 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl -  process started to return data with id: 10 
+2026-04-16 17:39:32 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Setting Db response in l1Cache and l2Cache
+2026-04-16 17:39:32 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Data returned successfully from db with id: 10
+2026-04-16 17:40:08 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl -  process started to return data with id: 10 
+2026-04-16 17:40:08 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Setting Db response in l1Cache and l2Cache
+2026-04-16 17:40:08 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Data returned successfully from db with id: 10
+2026-04-16 17:40:26 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl -  process started to return data with id: 12 
+2026-04-16 17:40:26 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Setting Db response in l1Cache and l2Cache
+2026-04-16 17:40:26 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Data returned successfully from db with id: 12
+2026-04-16 17:40:47 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl -  process started to return data with id: 12 
+2026-04-16 17:40:47 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Setting Db response in l1Cache and l2Cache
+2026-04-16 17:40:47 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Data returned successfully from db with id: 12
+2026-04-16 17:40:55 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl -  process started to return data with id: 12 
+2026-04-16 17:40:56 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Setting Db response in l1Cache and l2Cache
+2026-04-16 17:40:56 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Data returned successfully from db with id: 12
+2026-04-16 17:40:59 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl -  process started to return data with id: 12 
+2026-04-16 17:40:59 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Setting Db response in l1Cache and l2Cache
+2026-04-16 17:40:59 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Data returned successfully from db with id: 12

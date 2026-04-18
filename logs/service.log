@@ -1,0 +1,15 @@
+2026-04-18 22:42:18 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Process started to return data via cursor pagination
+2026-04-18 22:42:19 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Putting Db response in l1Cache and l2Cache for key: Booking_0_5
+2026-04-18 22:42:19 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Response returned form Db successfully
+2026-04-18 22:42:59 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Process started to return data via cursor pagination
+2026-04-18 22:43:21 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Process started to return data via cursor pagination
+2026-04-18 22:43:32 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Process started to return data via cursor pagination
+2026-04-18 22:43:32 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Putting Db response in l1Cache and l2Cache for key: Booking_6_5
+2026-04-18 22:43:32 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Response returned form Db successfully
+2026-04-18 22:43:56 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Process started to return data via cursor pagination
+2026-04-18 22:44:07 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Process started to return data via cursor pagination
+2026-04-18 22:46:05 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Process started to return data via cursor pagination
+2026-04-18 22:46:05 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Putting Db response in l1Cache and l2Cache for key: Booking_15_5
+2026-04-18 22:46:05 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Response returned form Db successfully
+2026-04-18 22:46:34 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Process started to return data via cursor pagination
+2026-04-18 22:46:44 INFO  org.sohel.bookingapp.service.impl.BookingServiceImpl - Process started to return data via cursor pagination
